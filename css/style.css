@@ -33,11 +33,11 @@ section{
     min-height: 600px;
 }
 
-img {
+.thumbnail {
 	transition: all 1s;
 }
 
-img:hover {
+.thumbnail:hover {
 	transform: scale(1.1);
 }
 
